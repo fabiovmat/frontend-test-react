@@ -1,4 +1,8 @@
 import './Header.css'
 import React from 'react'
 
-export default props => <header className="header">Cabecalho</header>
+export default props => 
+<header className="header">
+
+    Cabecalho
+</header>
